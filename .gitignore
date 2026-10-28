@@ -1,3 +1,19 @@
+# Archivos de Python
 __pycache__/
 *.pyc
+
+# Datos del usuario y configuraciones
 config.json
+gastos*.txt
+comprobantes/
+
+# Basura de empaquetado (PyInstaller)
+build/
+dist/
+*.spec
+
+# Respaldos y scripts de prueba temporales
+Respaldo*
+Generador*
+Gestor de Datos Personales.py
+
